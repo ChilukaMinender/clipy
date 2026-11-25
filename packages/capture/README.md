@@ -172,7 +172,7 @@ Example output:
   }
 ]
 
-
+```
 Source identifiers use the following formats:
 
 - `display:0` – First display.
@@ -187,7 +187,7 @@ Starts a screen-recording session using FFmpeg.
 
 **Syntax**
 
-
+```ts
 startCapture(options: CaptureOptions): Promise<CaptureSession>
 ```
 
